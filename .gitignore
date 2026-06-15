@@ -3,3 +3,4 @@
 *.class
 out/
 expenses.db
+test.db
